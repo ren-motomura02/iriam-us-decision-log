@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+
+# Environment variables
+tools/.env
+
+# Discord fetch output
+tools/output/
