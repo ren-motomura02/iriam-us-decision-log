@@ -25,6 +25,7 @@
 
 - [ ] DSP Bootcamp R4設計 — ステータス: R4変更点確定（XIフレーミング変更+週次モニタリング導入）、募集開始へ
   - [ ] R4開始後: 週次チェック（各参加者のStreaming / X Posting / X Interaction目標達成率を確認、課題があれば介入）— R4第1週終了時点から開始
+- [ ] Mycena's Cottage 自己ギフティング疑惑対応 — 本人へ説明要求メッセージ送付→回答待ち（24h期限）/ エンジニアにランキング修正可否を確認中（[詳細](topics/ops/2026-03-04_mycena-self-gifting-investigation.md)）
 
 ---
 
@@ -36,7 +37,10 @@
 
 - [ ] Influencers Club — 新ドメインでのアカウント購入待ち（3/10納品予定）
 - [ ] 法務 — ケベック州フランス語併記要件: DSP応募フォームの対応範囲について再協議（[論点整理](topics/ops/2026-03-03_quebec-french-language-dsp-form.md)）
-- [ ] Roadkill — Debut Blueprint用素材: 掲載許可取得済み、ロゴ・サムネイル画像データの共有待ち
+- [ ] Roadkill — Debut Blueprint ver4: ロゴ・#JumpOnIRIAM投稿サンプルを掲載済み、本人に掲載内容の最終確認中
+- [ ] 古橋 — Debut Blueprint ver4: 修正版のレビュー依頼中
+- [ ] aiconnor — #JumpOnIRIAM Image Layout Template制作中 → 完成後、Debut Blueprint p.7のボタンにリンクを設定する
+- [ ] 上記確認完了後 → 樋口（Sohei）に連絡し、DSP参加者への配布オペレーションを整える
 - [ ] Celes — R4募集開始の連絡・ライブセッション内容のアップデート依頼
 - [ ] Lioran — ドキシング案件: ヒアリング回答待ち（期限: 3/5）→ 3/6に処分実行予定（EASステータス剥奪・アカウント永久凍結）
 
@@ -54,6 +58,7 @@
 - [ ] ARPU向上施策（イベント・ギフト追加）の直近スケジュール確認
 - [ ] Duo Inviteキャンペーン: 背景付与・周知メッセージ送付
 - [ ] CCC DSP掲載テスト結果確認（3/18期限）— 応募数・質を見て継続or他PF展開を判断
+- [ ] Tsumicon Vegas Panel準備（3/13-3/15）— 過去パネルの焼き直し、資料準備不要。co-パネリストHiumi Subaruとの連携が必要
 
 ### ペア背景リファラルキャンペーン
 - [x] スプレッドシートへのデータ整形・入力（完了）
